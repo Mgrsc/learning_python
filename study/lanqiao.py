@@ -1,0 +1,1 @@
+print((lambda x=str(input()).upper(): "yes" if x=="LANQIAO" else "no")())
